@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+.top-bar{
+	height: 50px;line-height: 50px
+}
+.top-bar a{
+	color: white
+}
+.top-bar a:hover{
+	color: #FFC113
+}
+.navb .navbar-nav .nav-item .nav-link{
+	padding: 10px 20px
+}
+.navb .navbar-nav .nav-item .nav-link:hover{
+	color: #056CB6;background-color: #FFC113
+}
+.navb .navbar-nav .nav-item .dropdown-menu{
+	background-color: #056CB6;padding-top: 0;padding-bottom: 0
+}
+.navb .navbar-nav .nav-item .dropdown-menu .dropdown-item{
+	color: white
+}
+.navb .navbar-nav .nav-item .dropdown-menu li{
+	border-bottom: 1px solid white
+}
+.navb .navbar-nav .nav-item .dropdown-menu .dropdown-item:hover{
+	background-color: #FFC113
+}
+main{
+	mim-height: 500px
+}
+footer{
+	min-height: 200px
+}
+.gach-chan{
+	border-bottom: 2px solid #FFC113
+}
+footer .navbar-nav .nav-item .nav-link:hover{
+	corlor: #FFC113
+}
+.bottom-bar{
+	height: 50px;line-height: 50px;background-color: #FFC113
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
